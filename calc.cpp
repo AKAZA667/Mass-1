@@ -9,7 +9,7 @@ int main() {
  switch(op) { 
  case 1: // code 
  	 break; 
- case 2: // code 
+ case 2: result = a - b; // code 
 	 break; 
  case 3: // code 
  	 break; 
