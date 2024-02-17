@@ -7,13 +7,13 @@ int main() {
 >> op; 
  cout << "Введіть друге число\n"; cin >> b; 
  switch(op) { 
- case 1: result = a + b; // code 
+ case 1: // code 
  	 break; 
- case 2: result = a - b; // code 
+ case 2: // code 
 	 break; 
- case 3: result = a * b; // code 
+ case 3: // code 
  	 break; 
- case 4: result = (double) a / b; // code 
+ case 4: // code 
 	 break; 
  } 
  cout << "Результат = " << result;
